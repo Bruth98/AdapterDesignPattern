@@ -1,3 +1,7 @@
+
+/*
+This class repurposes Digital Albums to work with Analog Album methods
+*/
 public class AnalogAdapter implements AnalogAlbum {
     private DigitalAlbum album;
 
